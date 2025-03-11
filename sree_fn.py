@@ -1,4 +1,4 @@
-print("Starting..\n")
+print("Starting new..\n")
 def sree_handler(event, context):
     kg=event['Kg']
     lb=float(kg)*2.20462
